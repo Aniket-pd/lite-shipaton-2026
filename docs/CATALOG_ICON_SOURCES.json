@@ -1,0 +1,41 @@
+{
+  "retrieved": "2026-09-19",
+  "note": "Publisher-provided App Store artwork. Trademarks and artwork remain property of their respective owners. Used to identify services; no endorsement implied.",
+  "icons": {
+    "instagram": {
+      "appStoreID": 389801252,
+      "publisher": "Instagram, Inc.",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/62/59/a46259eb-f016-aa37-df4b-c881362c6e91/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+    },
+    "reddit": {
+      "appStoreID": 1064216828,
+      "publisher": "REDDIT, INC.",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/0a/11/570a1188-ef15-23c7-b6f1-b2689475b4fa/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg"
+    },
+    "x": {
+      "appStoreID": 333903271,
+      "publisher": "X Corp.",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/32/a9/a732a9b0-560b-2708-d95f-edcae995d993/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg"
+    },
+    "linkedin": {
+      "appStoreID": 288429040,
+      "publisher": "LinkedIn Corporation",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/d1/7b/aed17ba6-a18a-cdd7-461f-5c47da1cc9f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg"
+    },
+    "gmail": {
+      "appStoreID": 422689480,
+      "publisher": "Google LLC",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/e9/5e/fde95ef0-657c-e77e-c0f4-8fdd2b610157/gmail_2026_ios-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-0-85-220.png/512x512bb.jpg"
+    },
+    "amazon": {
+      "appStoreID": 297606951,
+      "publisher": "AMZN Mobile LLC",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/65/34/dc65342f-f489-d8ee-d071-8a2c1abb1d3d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg"
+    },
+    "youtube": {
+      "appStoreID": 544007664,
+      "publisher": "Google LLC",
+      "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/e4/05/41e40564-43e1-3fcf-6497-ad4604a8bd18/logo_youtube_2024_q4_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/512x512bb.jpg"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "HaGeZi Multi PRO mini",
+  "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/6afe81b36cabffa26d8a35a3e07b91afd7d1d567/wildcard/pro.mini-onlydomains.txt",
+  "revision": "6afe81b36cabffa26d8a35a3e07b91afd7d1d567",
+  "sha256": "b4338c677da1057a35ea2c1fd59641fd6385771d1685ee78e87e753356917723",
+  "domains": 53522,
+  "license": "GPL-3.0 (bundled blocklist data)",
+  "modifications": "Original list retained. Lite derives WebKit domain rules and adds its original ten domains and cosmetic rules at runtime."
+}
